@@ -26,6 +26,7 @@ raobinhui  git
 raobinhui  git
 raobinhui  git
 raobinhui  git  master test   hello!
+raobinhui  git  hot-fix  hello!
 raobinhui  git
 
 
